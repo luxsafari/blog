@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ringo Star Imperfect</title>
-    <link>https://github.com/luxsafari.github.io/blog/tags/</link>
+    <link>https://luxsafari.github.io/blog/tags/</link>
     <description>Recent content in Tags on Ringo Star Imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>JP</language>
+    <language>en-us</language>
     
-	<atom:link href="https://github.com/luxsafari.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luxsafari.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
