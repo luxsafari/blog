@@ -2,12 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luxsafari.github.io/blog/2017/04/15/2nd/</loc>
+    <lastmod>2017-04-15T22:01:45+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://luxsafari.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://luxsafari.github.io/blog/post/</loc>
+    <lastmod>2017-04-15T22:01:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luxsafari.github.io/blog/</loc>
+    <lastmod>2017-04-15T22:01:45+09:00</lastmod>
     <priority>0</priority>
   </url>
   
